@@ -5,7 +5,7 @@ Portfolio profesional bilingüe (ES/EN) orientado a **Data Analytics, GIS, Water
 La actividad de **trading de criptomonedas** aparece de forma secundaria, como una práctica analítica adicional vinculada con análisis técnico, gestión de riesgo, visualización de datos, Pine Script e IA; no domina el posicionamiento profesional.
 
 ## Incluye
-
+kklj
 - Frontend responsive, accesible y bilingüe.
 - Dark / light mode.
 - Proyectos filtrables y modal de detalle.
